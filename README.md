@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 👋 Hey there! I'm Prem Hosure  <br><br>🌱 I’m currently learning **Spring Boot**, **React**, and deepening my understanding of **Data Structures & Algorithms**.  <br><br>👯 I’m looking to collaborate on **internships** or anything that can help me grow as a developer.  <br><br>🤝 I’m looking for help with **career guidance** and **contributing to real-world codebases**.  <br><br>💬 Ask me about **Java**, **SQL**, and **basic web development**.  <br><br>⚡ Fun fact: I learn the most at the last moment 😄  <br><br>📫 Reach me at: **premhosure4545@gmail.com**<br>
 
 
